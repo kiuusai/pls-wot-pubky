@@ -76,7 +76,3 @@ Login Mode Selection
 - **Ratings Feed Screen**: Should be logged in
 - **User Ratings Graph Screen**: Should be logged in
 - **Publish Rating Screen**: Should be logged in full login mode
-
----
-
-Document generated from project context. For networking details, see [`docs/network.md`](./network.md).
